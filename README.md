@@ -99,7 +99,7 @@
 - [JAWS-UG 初心者支部#15 AWS re:Invent 2018 re:Cap !!](https://qiita.com/SatoshiShinohara/items/6ac5884827c452f9dae9)
 - Amazon Game TechNight#8  〜AWSでオンラインゲームをリリースするベストプラクティス〜
 - 【TECH x GAME COLLEGE #8】効率的なゲーム開発のためのRDB再入門
-- AWSome Day 2018 Tokyo
+- [AWSome Day 2018 Tokyo](https://qiita.com/SatoshiShinohara/items/8425c8eb3bc225da4bb3)
 - [【サポーターズCoLab勉強会】スマホゲームサーバのしくみをしってみよう](https://qiita.com/SatoshiShinohara/items/d4d152454aeb245d8e43)
 - [【初心者向け、上級開発者お断り！】インフラエンジニアが学ぶはじめてのAPI in 東京](https://qiita.com/SatoshiShinohara/items/16ee5223bf6f25b4dc50)
 - Ansibleもくもく会 （サーバ編）2018.10
