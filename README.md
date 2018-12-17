@@ -96,9 +96,7 @@
 
 ### 社外セミナー・勉強会への参加、社内へのフィードバック
 #### 一般枠
-- Amazon Game Developers Day
-- 【TECH x GAME COLLEGE #9】GCP で "○○しない" ゲーム開発をしよう
-- 第12回 SQL Server 2019勉強会(1st Anniversary)
+- [JAWS-UG 初心者支部#15 AWS re:Invent 2018 re:Cap !!](https://qiita.com/SatoshiShinohara/items/6ac5884827c452f9dae9)
 - Amazon Game TechNight#8  〜AWSでオンラインゲームをリリースするベストプラクティス〜
 - 【TECH x GAME COLLEGE #8】効率的なゲーム開発のためのRDB再入門
 - AWSome Day 2018 Tokyo
