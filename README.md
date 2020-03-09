@@ -4,8 +4,7 @@
 
 | Key      | Value                                         |
 |----------|-----------------------------------------------|
-| Name     | 篠原 聡志                                     |
-| Twitter  | https://twitter.com/infra_chan                |
+| Name     | 篠原 聡志                                      |
 | Qiita    | https://qiita.com/SatoshiShinohara            |
 | connpass | https://connpass.com/user/shinoharasatoshi/   |
 
@@ -16,9 +15,35 @@
 
 ## 職務経歴
 
+### 2019/01 -: [株式会社ネクソン](https://www.nexon.co.jp/)
+
+職務： インフラエンジニア
+
+#### 担当タイトル
+
+- [メイプルストーリー2](https://maplestory2.nexon.co.jp/)
+- [テイルズウィーバー](https://talesweaver.nexon.co.jp/)
+- Tree of Savior
+
+#### 業務内容
+
+- クラウドを用いたゲームインフラの設計・構築・運用保守
+- 稼働監視
+- CDNによるコンテンツ配布
+- 社内・協力会社への技術サポート
+- クラウドサービス利用料の最適化
+- 業務改善
+
 ### 2017/11 - 2018/12: [株式会社ケイブ](https://www.cave.co.jp/) 
 
 職務: インフラエンジニア
+
+#### 担当タイトル
+
+- [ゴシックは魔法乙女 ～さっさと契約しなさい！～](https://gomaotsu.jp/)
+- 三極ジャスティス
+- くにつく
+- けもみみメロメロれしぴ～愛の汗だくレストラン～
 
 #### 職務内容
 
