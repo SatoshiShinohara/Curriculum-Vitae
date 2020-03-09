@@ -74,11 +74,17 @@
     - Auto Scaling
   - EBS
   - S3
-  - EFS
+  - Elastic File System
+  - FSx for Windows File Server
   - Lambda
+  - Athena
+  - Glue
+  - API Gateway
   - RDS
     - Aurora
     - MySQL
+    - MS SQL
+  - Database Migration Service
   - ElastiCache
     - memcached
     - Redis
@@ -90,10 +96,13 @@
   - ELB
     - ALB
     - CLB
+  - Certificate Manager
   - VPC
   - CodeCommit
+  - Data Pipeline
+  - Organizations
 - Linux
-  - CentOS 5,6,7
+  - CentOS 5,6,7,8
   - Amazon Linux 1,2
 - OSS
   - Apache
@@ -103,6 +112,7 @@
   - MySQL
   - memcached
   - Redis
+  - MongoDB
   - WordPress
   - Redmine
   - daemontools
