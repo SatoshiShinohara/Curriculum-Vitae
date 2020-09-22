@@ -106,10 +106,11 @@
   - CentOS 5,6,7,8
   - Amazon Linux 1,2
 - OSS
+  - Zabbix
+  - Ansible
+  - Terraform
   - Apache
   - Nginx
-  - Ansible
-  - Zabbix
   - MySQL
   - memcached
   - Redis
