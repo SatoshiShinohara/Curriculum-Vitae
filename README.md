@@ -21,8 +21,9 @@
 
 #### 担当タイトル
 
-- [メイプルストーリー2](https://maplestory2.nexon.co.jp/)
+- [アラド戦記](https://arad.nexon.co.jp/)
 - [テイルズウィーバー](https://talesweaver.nexon.co.jp/)
+- メイプルストーリー2
 - Tree of Savior
 
 #### 業務内容
