@@ -125,11 +125,9 @@
 ### 言語
 
 - シェルスクリプト
-- C
-- Java
 - Python
-  - [python-aws-lambda-cloudwatch-alarm-check](https://github.com/SatoshiShinohara/python-aws-lambda-cloudwatch-alarm-check)
-  - [python-aws-lambda-ec2-start-stop](https://github.com/SatoshiShinohara/python-aws-lambda-ec2-start-stop)
+- Java
+- C
 
 ### 社外セミナー・勉強会への参加、社内へのフィードバック
 #### 一般枠
