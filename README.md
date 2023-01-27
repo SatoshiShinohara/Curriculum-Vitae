@@ -16,7 +16,11 @@
 
 ## 職務経歴
 
-### 2019/01 -: [株式会社ネクソン](https://www.nexon.co.jp/)
+### 2022/11 - : [Amazon Web Services, Inc.](https://aws.amazon.com/jp/)
+
+職務： ソリューションアーキテクト
+
+### 2019/01 - 2022/10: [株式会社ネクソン](https://www.nexon.co.jp/)
 
 職務： インフラエンジニア
 
